@@ -3,7 +3,7 @@
 
 Now that you've built your first book, you may wish to get some inspiration from a more "complete" book example.
 
-This section describes the [QuantEcom mini book](https://executablebooks.github.io/quantecon-mini-example/docs/index.html) to show you how it's made.
+This section describes the [QuantEcon mini book](https://executablebooks.github.io/quantecon-mini-example/docs/index.html) to show you how it's made.
 
 Some of the features on display include
 
